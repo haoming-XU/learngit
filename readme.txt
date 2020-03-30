@@ -1,13 +1,8 @@
-Git is a version control system.
-Git is free software.
-<<<<<<< HEAD
-99999999999999
-=======
+Git is a version control 
 
 
-hello world 哈哈哈
->>>>>>> dev
-hahahahahhahaha
+
+你就像那一把火
 123
 
 
